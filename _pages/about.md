@@ -14,7 +14,7 @@ On the efficiency side, my work explores model compression and acceleration tech
 
 On the trustworthiness side, I study machine unlearning, uncertainty estimation, and related topics in trustworthy AI. My goal is to understand how efficient AI systems behave under compression and deployment constraints, and how to make them more accountable, privacy-aware, and reliable in real-world scenarios.
 
-## <i class="fas fa-microscope"></i> Research Interests
+## Research Interests
 
 - Efficient machine learning
 - Large language model quantization
@@ -22,7 +22,7 @@ On the trustworthiness side, I study machine unlearning, uncertainty estimation,
 - Machine Learning System
 - Trustworthy AI
 
-## <i class="fas fa-book"></i> Selected Publications
+## Selected Publications
 
 - **Yujia Tong**, Yuze Wang, Jingling Yuan, Chuang Hu. "Robust Machine Unlearning for Quantized Neural Networks via Adaptive Gradient Reweighting with Similar Labels." ICCV, 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Tong_Robust_Machine_Unlearning_for_Quantized_Neural_Networks_via_Adaptive_Gradient_ICCV_2025_paper.pdf)] [[arXiv:2503.13917](https://arxiv.org/abs/2503.13917)]
 
@@ -40,7 +40,7 @@ On the trustworthiness side, I study machine unlearning, uncertainty estimation,
 
 - Yuze Wang, **Yujia Tong**, Xuan Liu, Junhao Dong. "SAU: Sparsity-Aware Unlearning for LLMs via Gradient Masking and Importance Redistribution." Preprint, 2026. [[arXiv:2602.00577](https://arxiv.org/abs/2602.00577)]
 
-## <i class="fas fa-users"></i> Academic Service
+## Academic Service
 
 ### Conference
 
@@ -50,7 +50,7 @@ Reviewer: ICML'26, NeurIPS'26, CVPR'25/26, ICCV'25, ECCV'26.
 
 Reviewer: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
-## <i class="fas fa-trophy"></i> Honors and Awards
+## Honors and Awards
 
 - First Prize, Kingsoft Cloud LLM Inference Acceleration Competition, 2026
 - Foresight Award (National Third Place), 5th SJTU-Winning Health Smart Healthcare Challenge, 2022
