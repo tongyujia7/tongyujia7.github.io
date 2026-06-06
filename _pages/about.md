@@ -42,13 +42,9 @@ On the trustworthiness side, I study machine unlearning, uncertainty estimation,
 
 ## 👥 Academic Service
 
-### Conference
+**Conference Reviewer:** ICML'26, NeurIPS'26, CVPR'25/26, ICCV'25, ECCV'26.
 
-Reviewer: ICML'26, NeurIPS'26, CVPR'25/26, ICCV'25, ECCV'26.
-
-### Journal
-
-Reviewer: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+**Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 ## 🏆 Honors and Awards
 
